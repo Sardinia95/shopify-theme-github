@@ -3575,3 +3575,10 @@ details-disclosure > details {
 a.header__icon.header__icon--account { 
     display: inline-flex !important; 
 }}
+.header__active-menu-item {
+text-decoration: none;
+}
+ 
+.header__menu-item:hover span {
+text-decoration: none;
+}
