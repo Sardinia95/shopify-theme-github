@@ -47,15 +47,10 @@
         "mobile_content_alignment": "center",
         "show_text_below": false
       }
-    },
-    "pagefly-home": {
-      "type": "pagefly-home",
-      "settings": {}
     }
   },
   "order": [
-    "image_banner",
-    "pagefly-home"
+    "image_banner"
   ],
   "layout": "theme.pagefly"
 }
